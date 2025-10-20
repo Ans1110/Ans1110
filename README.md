@@ -22,7 +22,7 @@
   <a href="mailto:bo99645bo@gmail.com">
     <img src="https://img.shields.io/badge/Email-bo99645bo@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.leetcode.com/cheng" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-cheng-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://www.leetcode.com/cheng1110" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-cheng1110-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
