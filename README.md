@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vuejs,nextjs,redux,pinia,bun,nodejs,express,sass,tailwindcss,golang,java,spring,python,mysql,redis,mongodb,docker,vercel,nginx,git,linux,markdown&theme=dark&perline=9" alt="My Skills" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vuejs,nextjs,redux,pinia,bun,nodejs,express,prisma,sass,tailwindcss,golang,java,spring,python,mysql,redis,mongodb,docker,vercel,nginx,git,linux&theme=dark&perline=9" alt="My Skills" /></a>
 </p>
 
 ## 📌 Tags
