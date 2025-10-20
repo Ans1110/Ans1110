@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 💻 [My website]()
-- main language: **Typescript** and **Go**
+- ✨ Main language: **Typescript** and **Go**
 - 🌱 Currently learning **Microservices** architecture and cloud technologies
 - 🔧 Love working with modern web technologies and building robust systems
 - 📚 Always exploring new technologies and best practices
