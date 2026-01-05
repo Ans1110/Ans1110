@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- 💻 [My website](https://cheng-blog.zeabur.app)
+- 💻 [My website](https://cheng-blog.up.railway.app)
 - ✨ Main language: **Typescript** and **Go**
 - 🌱 Currently learning **web3**
 - 🔧 Love working with modern web technologies and building robust systems
