@@ -7,8 +7,7 @@
 - 💻 [My website](https://cheng-blog.up.railway.app)
 - ✨ Main language: **Typescript** and **Go**
 - 🌱 Currently learning **web3**
-- 🔧 Love working with modern web technologies and building robust systems
-- 📚 Always exploring new technologies and best practices
+- 📚 Always exploring new technologies
 
 ## 📌 Tags
 
