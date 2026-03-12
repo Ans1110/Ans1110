@@ -6,7 +6,7 @@
 
 - 💻 [My website](https://cheng-blog.up.railway.app)
 - ✨ Main language: **Typescript** and **Go**
-- 🌱 Currently learning **web3**
+- 🌱 Currently learning **microservices**
 - 📚 Always exploring new technologies
 
 ## 📌 Tags
@@ -41,8 +41,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <a href="mailto:peter0928091516@gmail.com">
     <img src="https://img.shields.io/badge/Email-peter0928091516@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
